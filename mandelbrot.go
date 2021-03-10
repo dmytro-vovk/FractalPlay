@@ -7,7 +7,7 @@ import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"
 	"fyne.io/fyne/v2/canvas"
-	"github.com/dmitry-vovk/sixel/fractal"
+	"github.com/dmytro-vovk/FractalPlay/fractal"
 )
 
 func main() {
