@@ -14,7 +14,6 @@ func main() {
 	currentW, currentH := 1000, 1000
 	minX, maxX := -2.0, 1.0
 	minY, maxY := -1.5, 1.5
-
 	w := app.New().NewWindow("Mandelbrot")
 	w.Resize(fyne.NewSize(float32(currentW), float32(currentH)))
 	w.SetPadded(false)
